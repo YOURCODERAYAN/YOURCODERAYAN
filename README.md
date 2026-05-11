@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Uploading bannerGif.gif…]()
+![banner](https://raw.githubusercontent.com/YOURCODERAYAN/YOURCODERAYAN/main/bannerGif.gif)
 
 
 
