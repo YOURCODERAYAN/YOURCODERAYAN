@@ -17,6 +17,6 @@ Frontend developer who thinks the web should feel alive. I build modern, interac
 ![](https://streak-stats.demolab.com/?user=YOURCODERAYAN&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=YOURCODERAYAN&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![snake gif](https://github.com/YOURCODERAYAN/YOURCODERAYAN/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/YOURCODERAYAN/YOURCODERAYAN/blob/output/github-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
